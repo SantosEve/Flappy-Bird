@@ -29,8 +29,8 @@ contexto.fillRect(0,0, canvas.width, canvas.height)
 const fundo = {
     spriteA : 420,
     spriteB: 10,
-    largura: 278,
-    altura: 204,
+    largura: 279,
+    altura: 100,
     a: 0,
     b: 100,
     desenha(){
